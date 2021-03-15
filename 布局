@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+    <link href="css/布局.css" rel="stylesheet" type="text/css" />
+	</head>
+<body>
+	<div class="header">
+		<h2>Logo</h2>
+		<div class="flex">
+			<a href="#">Github</a>
+		    <a href="#">Register</a>
+			<a href="#">Login</a>
+		</div>
+	</div>
+	
+	<div class="banner">
+		<div class="math">
+			<a href="#">1</a>
+		    <a style="height: 44px;position: relative;bottom:14px;background-color: #eeeeee;" href="#"><span style="position: relative;top:15px;">2</span></a>
+			<a href="#">3</a>
+			<a href="#">4</a>
+		</div>
+	</div>
+	
+	<div class="middle">
+		<hr width="100%" align="left" noshade="" size="1" color="grey" style="margin-top:80px;">
+		<div class="first">
+			<div id="left1">
+				<p style="text-align:center;position: relative;top:80px;">This is Content 1</p>
+			</div>
+			<div id="center1">
+				<p style="text-align:center;position: relative;top:80px;"> Content 2</p>
+			</div>
+			<div id="right1">
+				<p style="text-align:center;position: relative;top:80px;">Content 3</p>
+			</div> 
+		</div>
+		
+		<div class="second">
+			<div class="left2">
+				<p style="text-align:center;position: relative;top:60px;"> Content 4</p>
+			</div>
+			<div class="left2">
+				<p style="text-align:center;position: relative;top:60px;"> Content 5</p>
+            </div>
+			<div class="left2">
+				<p style="text-align:center;position: relative;top:60px;"> Content 6</p>
+			</div>
+			<div class="left2">
+				<p style="text-align:center;position: relative;top:60px;"> Content 7</p>
+			</div>
+	    </div>
+		
+		<div class="third">
+			<div id="left3">
+				<p style="text-align:center;position: relative;top:60px;"> Content 8</p>
+			</div>
+			<div id="center3">
+				<p style="text-align:center;position: relative;top:60px;"> Content 9</p>
+			</div>
+			<div id="right3">
+				<p style="text-align:center;position: relative;top:60px;"> Content 10</p>
+			</div>
+		</div>
+	</div>
+	
+	<div class="tail">
+		<p style="text-align:center;color: #F0F8FF; position: relative;top:60px;"> 2018.baidu.com 终于做完了草！</p>
+	</div>
+</body>
+</html>
